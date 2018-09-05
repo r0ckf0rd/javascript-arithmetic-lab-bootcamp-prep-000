@@ -1,3 +1,3 @@
-function addEightAndOne() {
+function add() {
   8 + 1
 }
