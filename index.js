@@ -1,3 +1,3 @@
-function add() {
-  8 + 1
+function add(a, b) {
+  a + b
 }
